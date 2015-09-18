@@ -4,7 +4,8 @@ import "fmt"
 
 func main() {
 	// For command line git tutorial
-	// Local repository modification
+	// First : GitHub modification
+	// Second : Local repository modification
 
 	fmt.Println("Hello, world!")
 	fmt.Println("Tell Your World")
